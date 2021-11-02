@@ -1,1 +1,1 @@
-# mizuxe
+# mizuxe Bootstrap practice project
